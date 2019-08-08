@@ -1,5 +1,5 @@
 {
-    "name": "wxxiong6/tree",
+    "name": "guomengtao/tree",
     "description": "tree data 使用递归生成树形数据，简单实用",
    "keywords": [
     "tree",
@@ -10,7 +10,7 @@
     "authors": [
         {
             "name": "xwx",
-            "email": "wxxiong6@gmail.com"
+            "email": "guomengtao@gmail.com"
         }
     ],
     "require": {
