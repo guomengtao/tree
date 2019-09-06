@@ -1,3 +1,8 @@
+- [x] Write the press release
+- [X] Update the website
+- [ ] Contact the media
+
+
 [![GitHub forks](https://img.shields.io/github/forks/wxxiong6/tree.svg)](https://github.com/wxxiong6/tree/network)
 [![Packagist](https://img.shields.io/packagist/v/wxxiong6/tree.svg?style=plastic)]()
 
