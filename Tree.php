@@ -1,10 +1,10 @@
 <?php
 /**
  *
- * Tree 构建tree状数据
+ * Tree 构建tree状数据 测试新发新稳定版
  *
- * @author    wxxiong@gmail.com
- * @version   v1.2.1
+ * @author    guomengtao@gmail.com
+ * @version   v1.2.6 
  *
  */
 
