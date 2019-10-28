@@ -11,7 +11,7 @@
 class Tree
 {
     /**
-     * 主键名称.
+     * 主键名称 示例.
      *
      * @var string
      */
@@ -49,6 +49,7 @@ class Tree
         if (!empty($child)) {
             self::$child = $child;
         }
+        $tom = 12;
     }
 
     /**
